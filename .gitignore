@@ -1,0 +1,6 @@
+node_modules
+dist
+.project
+.settings
+output.file
+package-lock.json
