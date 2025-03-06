@@ -1,9 +1,13 @@
 {
   "name": "what-the-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/downloadContent.js",
   "scripts": {
     "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ticketz-oss/what-the-file.git"
   },
   "keywords": [],
   "author": "Claudemir Todo Bom",
